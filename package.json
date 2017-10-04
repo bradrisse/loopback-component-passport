@@ -30,7 +30,7 @@
     "passport": "^0.3.2",
     "strong-globalize": "^2.6.2",
     "underscore": "^1.8.3",
-    "username-generator": "^1.0.3"
+    "username-generator": "https://github.com/bradrisse/username-generator.git"
   },
   "devDependencies": {
     "eslint": "^2.13.1",
